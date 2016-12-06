@@ -7,7 +7,7 @@ Joining all Scratch modules and packing as a single one. It includes all of thos
 - [@scratch-css/helpers](https://github.com/scratch-css/helpers) - Helpers
 - [@scratch-css/animations](https://github.com/scratch-css/animations) - Animations
 
-To know more about Scratch and its modules [read more here](https://github.com/scratch-css/scratch).
+To know more about Scratch and its modules you can [read here](https://github.com/scratch-css/scratch).
 
 ### Setup:
 
