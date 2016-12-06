@@ -13,8 +13,6 @@ To know more about Scratch and its modules [read more here](https://github.com/s
 
     npm install @scratch-css/all --save
 
-### Using:    
-
 You need to import it in your CSS file:
   
     @import '@scratch-css/scratch';
@@ -22,6 +20,8 @@ You need to import it in your CSS file:
 Or, import from `node_modules` path:
 
     @import './node_modules/@scratch-css/scratch/index.css';
+
+### Try:
 
 Try to add this snippet in your CSS just to check if it works:
 
