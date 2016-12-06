@@ -1,5 +1,5 @@
 # All Scratch modules together
-Joining all Scratch modules packing as a single one. So joins all those:
+Joining all Scratch modules and packing as a single one. It includes all of those:
 
 - [@scratch-css/scratch](https://github.com/scratch-css/scratch) - Main Library
 - [@scratch-css/grid](https://github.com/scratch-css/grid) - Grid system
@@ -13,7 +13,7 @@ To know more about Scratch and its modules [read more here](https://github.com/s
 
     npm install @scratch-css/all --save
 
-### Using in your CSS:    
+### Using:    
 
 You need to import it in your CSS file:
   
