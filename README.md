@@ -9,7 +9,7 @@ Joining all Scratch modules and packing as a single one. It includes all of thos
 
 To know more about Scratch and its modules [read more here](https://github.com/scratch-css/scratch).
 
-### Installing:
+### Setup:
 
     npm install @scratch-css/all --save
 
