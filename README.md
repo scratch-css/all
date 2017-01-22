@@ -1,4 +1,8 @@
-# All Scratch modules together
+# All Scratch modules together 
+
+[![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg)](https://gitter.im/scratch-css/all)
+[![npm (scoped)](https://img.shields.io/npm/v/@nikoloza/scratch-all.svg)](https://www.npmjs.com/package/@nikoloza/scratch-all)
+
 Joining all Scratch modules and packing as a single one. It includes all of those:
 
 - [@scratch-css/scratch](https://github.com/scratch-css/scratch) - Main Library
