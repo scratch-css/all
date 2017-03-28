@@ -1,6 +1,6 @@
 {
   "name": "@nikoloza/scratch-all",
-  "version": "0.1.7",
+  "version": "0.2.0",
   "description": "",
   "main": "index.css",
   "scripts": {
@@ -12,11 +12,11 @@
   "author": "",
   "license": "",
   "dependencies": {
-    "@nikoloza/scratch": "^0.1.0",
-    "@nikoloza/scratch-animations": "^0.1.0",
-    "@nikoloza/scratch-grid": "^0.1.0",
-    "@nikoloza/scratch-helpers": "^0.1.0",
-    "@nikoloza/scratch-ui": "^0.1.0"
+    "@nikoloza/scratch": "^0.2.0",
+    "@nikoloza/scratch-animations": "^0.2.0",
+    "@nikoloza/scratch-grid": "^0.2.0",
+    "@nikoloza/scratch-helpers": "^0.2.0",
+    "@nikoloza/scratch-ui": "^0.2.0"
   },
   "devDependencies": {
     "babel-core": "^6.14.0",
