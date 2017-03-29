@@ -13,6 +13,7 @@
   "license": "",
   "dependencies": {
     "@nikoloza/scratch": "^0.4.0",
+    "@nikoloza/scratch-reset": "^0.4.0",
     "@nikoloza/scratch-animations": "^0.4.0",
     "@nikoloza/scratch-grid": "^0.4.0",
     "@nikoloza/scratch-helpers": "^0.4.0",

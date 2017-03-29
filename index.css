@@ -2,6 +2,9 @@
 @import '../scratch/lib/index.css';
 
 /* scratch grid */
+@import '../scratch-reset/index.css';
+
+/* scratch grid */
 @import '../scratch-grid/lib/index.css';
 
 /* scratch ui */
