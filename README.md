@@ -5,6 +5,7 @@
 
 Joining all Scratch modules and packing as a single one. It includes all of those:
 
+- [@scratch-css/reset](https://github.com/scratch-css/reset) - Scratch reset
 - [@scratch-css/scratch](https://github.com/scratch-css/scratch) - Main Library
 - [@scratch-css/grid](https://github.com/scratch-css/grid) - Grid system
 - [@scratch-css/ui](https://github.com/scratch-css/ui) - UIkit
