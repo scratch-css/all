@@ -1,17 +1,17 @@
 /* scratch framework */
 @import '../scratch/lib/index.css';
 
-/* scratch grid */
-@import '../scratch-reset/index.css';
+/* scratch reset */
+@import '../reset/index.css';
 
 /* scratch grid */
-@import '../scratch-grid/lib/index.css';
+@import '../grid/lib/index.css';
 
 /* scratch ui */
-@import '../scratch-ui/lib/index.css';
+@import '../ui/lib/index.css';
 
 /* scratch helpers */
-@import '../scratch-helpers/lib/index.css';
+@import '../helpers/lib/index.css';
 
 /* scratch animations */
-@import '../scratch-animations/lib/index.css';
+@import '../animations/lib/index.css';
