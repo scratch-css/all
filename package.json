@@ -1,5 +1,5 @@
 {
-  "name": "@nikoloza/scratch-all",
+  "name": "@scratch-css/all",
   "version": "1.0.0",
   "description": "",
   "main": "index.css",
@@ -12,12 +12,12 @@
   "author": "",
   "license": "",
   "dependencies": {
-    "@nikoloza/scratch": "^0.7.0",
-    "@nikoloza/scratch-reset": "^0.7.0",
-    "@nikoloza/scratch-animations": "^0.7.0",
-    "@nikoloza/scratch-grid": "^0.7.0",
-    "@nikoloza/scratch-helpers": "^0.7.0",
-    "@nikoloza/scratch-ui": "^0.7.0"
+    "@scratch/scratch": "^1.0.0",
+    "@scratch/reset": "^1.0.0",
+    "@scratch/animations": "^1.0.0",
+    "@scratch/grid": "^1.0.0",
+    "@scratch/helpers": "^1.0.0",
+    "@scratch/ui": "^1.0.0"
   },
   "devDependencies": {
     "babel-core": "^6.14.0",
